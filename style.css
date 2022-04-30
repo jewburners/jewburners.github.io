@@ -63,3 +63,9 @@ body {
     height: 60;
 }
 
+
+#font {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Poppins', sans-serif;
+}
